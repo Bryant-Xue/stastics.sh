@@ -1,4 +1,4 @@
-# Nginx Access Log Analyzer
+# Statsics.sh (Nginx Access Log Analyzer)
 
 A lightweight Bash script designed to analyze Nginx access logs. It offers functionalities to:
 
